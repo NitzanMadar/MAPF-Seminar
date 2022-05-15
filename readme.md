@@ -2,6 +2,8 @@ MAPF Seminar Presentation
 ---
 My seminar presentation on "Using Highways for Bounded-Suboptimal Multi-Agent Path Finding".
 
+![Title Page](./title_page.png)
+
 References
 ---
 - Cohen, L., Greco, M., Ma, H., Hernández, C., Felner, A., Kumar, T. S., & Koenig, S. (2018, July). Anytime Focal Search with Applications. In IJCAI (pp. 1434-1441).
